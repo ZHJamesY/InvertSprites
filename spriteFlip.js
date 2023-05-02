@@ -9,7 +9,7 @@ const ctx3 = canvas3.getContext('2d');
 
 // edit here ****************************************************
 
-// source image
+// image source
 const src = './img/Attack1-EVil Wizard 2 By LuizMelo - itch.io.png';
 
 // download image name
