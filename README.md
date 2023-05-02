@@ -2,7 +2,7 @@
 Tool inverting sprites
 
 ### How to use:
-Edit three variables:  
+Edit three variables in spriteFlip.js file:  
 // image source  
 * const src =  
 
